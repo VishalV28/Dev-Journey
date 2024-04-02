@@ -12,6 +12,8 @@
 
 Recreated Google home page visually using HTML and CSS. Mobile-first development but reactive for larger browsers. Used slightly different colors, linked *cdnjs* as stylesheet and used *Fontawesome* for icons.
 
-### Project 2: *Creating Web Portfolio*
+### Project 2: *Link.Tree Page* 
+
+### Project 3: *Web Portfolio*
 
 ### JavaScript
