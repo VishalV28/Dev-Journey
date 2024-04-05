@@ -15,7 +15,7 @@ Recreated Google home page visually using HTML and CSS. Mobile-first development
 * Learnt git commands and CLI
 * Flexbox in CSS, CSS Variables and Media Queries
 
-### Project 2: *Link.Tree Page* | [Github Project]()
+### Project 2: *Link.Tree Page* | [Github Project](https://github.com/VishalV28/Personal-Link.tree) |
 
 Link tree page for personal links designing it for both mobile and larger screens using media queries. Integrated three.js for a responsive background.
 
