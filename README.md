@@ -19,6 +19,9 @@ Recreated Google home page visually using HTML and CSS. Mobile-first development
 
 Link tree page for personal links designing it for both mobile and larger screens using media queries. Integrated three.js for a responsive background. Deployed using Netlify. 
 
+* Practice CSS using JankCSS
+* HTTPs Networking and APIs
+
 ### Project 3: *Web Portfolio*
 
 ### JavaScript
