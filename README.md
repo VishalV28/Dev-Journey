@@ -25,3 +25,13 @@ Link tree page for personal links designing it for both mobile and larger screen
 ### Project 3: *Web Portfolio*
 
 ### JavaScript
+
+* Learn and practice javascript concepts (LeetCode, HackerRank)
+* Get familiar with JS libraries & frameworks
+
+## React 
+### Projects: 
+* To-do-List [Github Project](https://github.com/VishalV28/reactjs-todolist)
+* Responsive NASA-API Picture of the Day [Github Project](https://github.com/VishalV28/reactjs-NASA-API)
+* Gym Workout Generator Webapp [Github Project](https://github.com/VishalV28/reactjs-Gym-App)
+* ScribeSlate (ML Transcribing/Translating) Webapp [Github Project](https://github.com/VishalV28/reactjs-ML-Transcribe)
