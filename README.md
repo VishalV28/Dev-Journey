@@ -2,6 +2,12 @@
 
  Active log of learning and developing software skills
 
+## SECTIONS
+* HTML & CSS
+* JavaScript
+* React
+* Python
+
 ### HTML & CSS 
 
 * Refresher on **HTML & CSS** concepts
@@ -35,3 +41,9 @@ Link tree page for personal links designing it for both mobile and larger screen
 * Responsive NASA-API Picture of the Day [Github Project](https://github.com/VishalV28/reactjs-NASA-API)
 * Gym Workout Generator Webapp [Github Project](https://github.com/VishalV28/reactjs-Gym-App)
 * ScribeSlate (ML Transcribing/Translating) Webapp [Github Project](https://github.com/VishalV28/reactjs-ML-Transcribe)
+
+
+## Python
+
+### Resources
+* [Jupyter Notebooks] (https://github.com/jupyter/jupyter.wiki.git)
