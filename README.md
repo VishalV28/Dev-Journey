@@ -46,4 +46,4 @@ Link tree page for personal links designing it for both mobile and larger screen
 ## Python
 
 ### Resources
-* [Jupyter Notebooks](https://github.com/jupyter/jupyter.wiki.git)
+* [Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki)
